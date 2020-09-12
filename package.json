@@ -15,7 +15,7 @@
   "dependencies": {
     "fastify": "^2.11.0",
     "file-type": "^13.1.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@types/node-fetch": "^2.5.4",
